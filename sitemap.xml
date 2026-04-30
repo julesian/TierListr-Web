@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://YOUR-ROOT-HOSTNAME.example/</loc>
+    <loc>https://julesian.github.io/TierListr-Web/</loc>
   </url>
   <url>
-    <loc>https://YOUR-ROOT-HOSTNAME.example/privacy/</loc>
+    <loc>https://julesian.github.io/TierListr-Web/privacy/</loc>
   </url>
   <url>
-    <loc>https://YOUR-ROOT-HOSTNAME.example/terms/</loc>
+    <loc>https://julesian.github.io/TierListr-Web/terms/</loc>
   </url>
   <url>
-    <loc>https://YOUR-ROOT-HOSTNAME.example/support/</loc>
+    <loc>https://julesian.github.io/TierListr-Web/support/</loc>
   </url>
 </urlset>
